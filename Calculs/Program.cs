@@ -5,6 +5,7 @@ namespace Calculs
     /// <summary>
     /// Application Calculs : addition ou multiplication de 2 nombres
     /// </summary>
+    /// // test de refus commentaire à moi
     class Program
     {
         static void Main(string[] args)
